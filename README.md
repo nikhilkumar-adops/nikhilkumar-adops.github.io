@@ -2,4 +2,4 @@
 
 Personal portfolio site for Nikhil Kumar, ad operations at Jambo Jar.
 
-The whole site is one file, `index.html`. Live at https://nikhilkumar-adops.github.io/
+The site is one page, `index.html`, plus `og.png`, the preview image shown when the link is shared. Live at https://nikhilkumar-adops.github.io/
